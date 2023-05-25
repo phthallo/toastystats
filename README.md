@@ -5,7 +5,7 @@ These are all python scripts that will output CSV files containing
 data about fanworks (plus some helper functions).  Anyone is welcome
 to use them, for any purpose.  I encourage sharing of major improvements/additions with the community.
 
-For details on how to use AO3 scripts, see [AO3/AO3_README](AO3/AO3_README).
+For details on how to use AO3 scripts, see [AO3/AO3_README.txt](AO3/AO3_README.txt).
 These scripts include:
 * CASE 1: FINDING THE BIGGEST FANDOMS ON AO3
 * CASE 2: GETTING SUMMARY STATS FOR AO3 TAGS
